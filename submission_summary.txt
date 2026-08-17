@@ -1,0 +1,25 @@
+FINANCIAL ANALYSIS CHATBOT PROTOTYPE
+Submission Summary
+==================
+
+This submission contains a simple rule-based financial chatbot developed in
+Python.
+
+The chatbot:
+- Responds to five predefined financial questions.
+- Uses prepared financial-analysis values to generate responses.
+- Accepts interactive command-line input.
+- Handles unsupported questions with a clear limitation message.
+- Provides help and exit commands.
+- Was tested with seven test cases, all of which passed.
+
+Files included:
+1. financial_chatbot.py - main chatbot program
+2. README.md - documentation
+3. test_results.txt - demonstration and test results
+
+Important:
+The uploaded assignment instructions refer to financial data analyzed in Task 1,
+but those Task 1 results were not included in the uploaded screenshots.
+Therefore, example financial values are used. Replace them with your actual
+Task 1 values before final academic submission.

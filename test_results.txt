@@ -1,0 +1,82 @@
+FINANCIAL ANALYSIS CHATBOT - TEST RESULTS
+=============================================
+
+Test 1
+Input:
+What is the total revenue?
+
+Output:
+The total revenue is $120,000,000.
+
+Status: PASS
+
+
+Test 2
+Input:
+How has net income changed over the last year?
+
+Output:
+Net income has increased by 10.0% over the last year.
+
+Status: PASS
+
+
+Test 3
+Input:
+What is the total expense?
+
+Output:
+The total expense is $95,000,000.
+
+Status: PASS
+
+
+Test 4
+Input:
+What is the gross profit?
+
+Output:
+The gross profit is $45,000,000.
+
+Status: PASS
+
+
+Test 5
+Input:
+What is the revenue growth?
+
+Output:
+The revenue growth is 8.0%.
+
+Status: PASS
+
+
+Test 6 - Unsupported query
+Input:
+What is the stock price?
+
+Output:
+Sorry, I can only provide information on predefined financial queries.
+Please choose one of the supported questions.
+
+Status: PASS
+
+
+Test 7 - Case-insensitive input
+Input:
+WHAT IS THE TOTAL REVENUE?
+
+Output:
+The total revenue is $120,000,000.
+
+Status: PASS
+
+
+OVERALL RESULT
+==============
+7/7 tests passed.
+
+Note:
+The financial figures in this prototype are example values because the
+Task 1 analyzed financial data was not included in the uploaded instructions.
+Replace FINANCIAL_DATA in financial_chatbot.py with your actual Task 1 results.
